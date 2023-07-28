@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5"
+  }
+}
